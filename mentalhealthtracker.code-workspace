@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "mental-health-tracker/backend"
+		},
+		{
+			"path": "mental-health-tracker/frontend"
+		},
+		{
+			"path": "mental-health-tracker"
+		}
+	],
+	"settings": {}
+}
